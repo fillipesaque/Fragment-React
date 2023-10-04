@@ -1,0 +1,15 @@
+.pai{
+    background-color: red;
+    margin-top: 50px;
+    height: 50vh;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.pai h1 {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+
+}
